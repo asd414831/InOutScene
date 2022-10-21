@@ -2,6 +2,9 @@
 Helps you do Unity scene transitions
 
 First set the front object and the rear object.
+![image](https://github.com/asd414831/InOutScene/blob/main/_First.gif)
+
+That's it, now it's time to start.
 
 
 
@@ -22,8 +25,7 @@ There are four transitions to choose from.
 
 
 Each transition can adjust the time and Ease.
-
-
+You can also choose to skip the exit scene animation or enter scene animation.
 
 ![image](https://github.com/asd414831/InOutScene/blob/main/_Skip_In_or_Out.gif)
 
