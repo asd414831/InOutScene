@@ -2,6 +2,7 @@
 Helps you do Unity scene transitions.
 
 Please put the DOTween plugin in your working file before using this script.
+
 https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676
 
 First set the front object and the rear object.
