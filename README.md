@@ -1,7 +1,6 @@
 # InOutScene
 Helps you do Unity scene transitions
 ![image](https://github.com/asd414831/InOutScene/blob/main/_Fan.gif)
-![image](https://github.com/asd414831/InOutScene/blob/main/_Skip_In_or_Out.gif)
 
 
 ![image](https://github.com/asd414831/InOutScene/blob/main/_Zoom.gif)
