@@ -8,7 +8,6 @@ First set the front object and the rear object.
 That's it, now it's time to start.
 
 .
-.
 
 There are four transitions to choose from.
 
