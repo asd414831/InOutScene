@@ -1,9 +1,29 @@
 # InOutScene
 Helps you do Unity scene transitions
-![image](https://github.com/asd414831/InOutScene/blob/main/_Fan.gif)
-![image](https://github.com/asd414831/InOutScene/blob/main/_Skip_In_or_Out.gif)
 
+First set the front object and the rear object.
+
+
+
+
+There are four transitions to choose from.
+
+1. Fan
+![image](https://github.com/asd414831/InOutScene/blob/main/_Fan.gif)
+
+2. Zoom
 ![image](https://github.com/asd414831/InOutScene/blob/main/_Zoom.gif)
+
+3. Move
 ![image](https://github.com/asd414831/InOutScene/blob/main/_Move.gif)
+
+4. Eyes
 ![image](https://github.com/asd414831/InOutScene/blob/main/_Eyes.gif)
+
+
+Each transition can adjust the time and Ease.
+
+
+
+![image](https://github.com/asd414831/InOutScene/blob/main/_Skip_In_or_Out.gif)
 
